@@ -9,3 +9,5 @@ move towards AI and automation
 
 ## status
 Beginner - learning step by step
+
+This is my first repository
